@@ -1,2 +1,2 @@
 # Course-works-and-Projects
-Collection of my course works and projects done using Microsoft Excel, PowerBI, Python, etc. 
+This repository contains a curated collection of my academic courseworks, case studies, and project submissions completed during my MBA program at NIT Trichy, with a specialization in Finance. It includes work across diverse areas such as investment analysis, strategic management, data-driven decision making, business simulations, and financial modeling. Each file reflects practical insights, analytical thinking, and a strong emphasis on real-world business applications.
